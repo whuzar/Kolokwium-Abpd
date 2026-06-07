@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y8zmfEc0x2c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s30720\\RiderProjects\\Kolokwium-Abpd\\Kolokwium-Abpd\\Kolokwium-Abpd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s30720\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.7\\microsoft.aspnetcore.openapi.9.0.7.nupkg.sha512",
+    "C:\\Users\\s30720\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
